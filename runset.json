@@ -1,6 +1,6 @@
 {
   "tabs": 6,
-  "next": [2, 3],
-  "speed": [10, 15],
-  "timeinads": [120, 180]
+  "next": [2,3],
+  "speed": [10,15],
+  "timeinads": [180,210]
 }
