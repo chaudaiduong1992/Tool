@@ -2,6 +2,8 @@
   "tabs": 6,
   "next": [2,3],
   "speed": [10,15],
-  "time1PC": [200,240],
-  "time2PC": [180,210]
+  "mousemain": [2,4],
+  "mouseswipe": [9,12],
+  "speed": [10,15],
+  "timeads": [200,240]
 }
