@@ -5,5 +5,5 @@
   "mousemain": [2,4],
   "mouseswipe": [9,12],
   "speed": [10,15],
-  "timeads": [200,240]
+  "timeads": [150,180]
 }
